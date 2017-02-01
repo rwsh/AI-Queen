@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Jan 22 15:48:00 2017
+AI.Lector.ru
 
-@author: re
+Автор: Р.В. Шамин
 """
 
 import random as rnd
